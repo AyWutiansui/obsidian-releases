@@ -34195,7 +34195,7 @@
     "repo": "laplacede/obsidian-canvas-node-autosize"
   },
   {
-    "id": "obsidian-onenote-integration",
+    "id": "onenote-integration",
     "name": "OneNote Integration",
     "author": "Qoder",
     "description": "Embed and edit OneNote notes directly in Obsidian via local COM integration - real window embedding, sidebar browsing, and interactive page selection. - This plugin has not been manually reviewed by Obsidian staff.",
